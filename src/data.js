@@ -47,6 +47,25 @@ export default [
     },
     {
         id: 6,
+        title: "Tsuru no Yu",
+        location: "Akita",
+        googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
+        startDate: "January 6, 2020",
+        endDate: "January 8, 2020",
+        description: "Tsuru no Yu is a beautiful natural mountain hot spring located in the mountains of Akita Prefecture. It is a very quiet and serene location perfect for chance to unplug during a vacation get away",
+        imageUrl: "USJ.jpg"
+    },
+    {
+        id: 8,
+        title: "Tokyo DisneySea",
+        location: "Chiba",
+        googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
+        startDate: "October 26, 2019",
+        description: "Part of Japan's Tokyo Disney Resort located on the waterfront of Tokyo Bay, this section of the resort offers a variety of water themed attractions from the Disney catalog.",
+        imageUrl: "USJ.jpg"
+    },
+    {
+        id: 7,
         title: "Mount Fuji",
         location: "Japan",
         googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",

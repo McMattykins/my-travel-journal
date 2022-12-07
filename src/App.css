@@ -29,6 +29,10 @@
     padding: .75em;
 }
 
+.card:not(:last-of-type) {
+    border-bottom: solid 5px skyblue;
+}
+
 .card--image {
     grid-area: image;
     min-width: 100px;
